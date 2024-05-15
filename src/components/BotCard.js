@@ -9,6 +9,7 @@ const botTypeClasses = {
   Captain: "icon star"
 }
 
+
 const BotCard = props => {
   const { bot, action, removeCard } = props
 

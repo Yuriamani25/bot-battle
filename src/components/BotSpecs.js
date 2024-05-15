@@ -9,6 +9,7 @@ const botTypeClasses = {
   Captain: "icon star"
 }
 
+
 const BotSpecs = props => {
   return (
     <div className="ui segment">
